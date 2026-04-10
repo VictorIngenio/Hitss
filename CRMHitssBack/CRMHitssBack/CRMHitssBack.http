@@ -1,0 +1,6 @@
+@CRMHitssBack_HostAddress = http://localhost:5063
+
+GET {{CRMHitssBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

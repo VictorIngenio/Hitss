@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMHitssBack", "CRMHitssBack\CRMHitssBack.csproj", "{6C5FB1A2-FFEE-4AF1-BF37-145AACB0B0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMRHitssBackNUnitTest", "CMRHitssBackNUnitTest\CMRHitssBackNUnitTest.csproj", "{6BAA1406-D52B-423E-9F3A-04A6A237749E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5FB1A2-FFEE-4AF1-BF37-145AACB0B0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5FB1A2-FFEE-4AF1-BF37-145AACB0B0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5FB1A2-FFEE-4AF1-BF37-145AACB0B0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5FB1A2-FFEE-4AF1-BF37-145AACB0B0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAA1406-D52B-423E-9F3A-04A6A237749E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAA1406-D52B-423E-9F3A-04A6A237749E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAA1406-D52B-423E-9F3A-04A6A237749E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAA1406-D52B-423E-9F3A-04A6A237749E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC63CD5-1BA3-4E90-841E-E29E7227D977}
+	EndGlobalSection
+EndGlobal

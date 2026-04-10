@@ -1,0 +1,7 @@
+.vs/
+CRMHitssBack/CRMHitssBack/bin/
+CRMHitssBack/CMRHitssBackNUnitTest/bin/
+CRMHitssBack/CRMHitssBack/obj/
+CRMHitssBack/CMRHitssBackNUnitTest/obj/
+CRMHitssBack/CRMHitssBack/*.csproj
+CRMHitssBack/CMRHitssBackNUnitTest/*.csproj
